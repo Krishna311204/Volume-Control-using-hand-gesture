@@ -55,10 +55,3 @@ The application shows:
 This project uses:
 - [MediaPipe](https://mediapipe.dev/) for real-time hand tracking.
 - [PyCaw](https://github.com/AndreMiras/pycaw) for system audio control.
-
-## License
-This project is for educational purposes. Feel free to modify and use it as needed.
-
----
-
-Enjoy controlling your volume with simple hand gestures!
